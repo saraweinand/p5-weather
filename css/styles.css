@@ -1,0 +1,51 @@
+body {
+  background: #D1D1D1;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+
+#location {
+  font-size: 2em;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  margin-top: 3em;
+}
+
+
+#condition img {
+  width: 100%;
+  max-width: 350px;
+  display: block;
+  margin: -1em auto 0 auto;
+}
+
+#description {
+  font-size: 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 300;
+  
+  margin-top: -1.25em;
+}
+
+#temp {
+  font-size: 5em;
+  text-align: center;
+  font-weight: 700;
+
+  margin-top: -.5em;
+}
+
+#high-low {
+  font-size: 1em;
+  text-align: center;
+  font-weight: 300;
+
+  margin-top: -3em;
+}
